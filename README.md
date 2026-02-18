@@ -1,1 +1,0 @@
-# basic-plot-using-matplotlib
